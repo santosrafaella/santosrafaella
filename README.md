@@ -2,7 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/santosrafaella">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=santosrafaella&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="(https://github-readme-stats.vercel.app/api?santosrafaella=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+    !https://github-readme-stats.vercel.app/api?username=santosrafaella&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosrafaella&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
